@@ -1,0 +1,1 @@
+I have employed three datasets, conducted data exploration to extract numerous business insights, created a lookalike model, and employed K-Means clustering to create clusters according to specific patterns.
